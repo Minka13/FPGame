@@ -1,2 +1,2 @@
 # FPGame
-Same as previous but before omega crash
+Before omega crash, same as previous, it was, hmm? Begun, the omega crashing has!
